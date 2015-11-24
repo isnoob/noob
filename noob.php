@@ -1,10 +1,8 @@
 <?php
 
 	if ($_GET("u") && $_GET("p")) {
-		echo $_GET('u');
-echo "\n";
-echo $_GET('p');
-echo "\n";
+		echo $_GET("u");
+		echo $_GET("p");
 
 	}
 	else {
