@@ -1,5 +1,5 @@
 <?php
 
-echo "<script>window.location.href = \"http:\\google.com\"";
+echo "<script>window.location.href = "'http:/\/\google.com'";
 
 ?>
