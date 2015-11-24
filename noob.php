@@ -1,6 +1,6 @@
 <?php
 
-	if ($_GET('u') && $_GET('p')) {
+	if ($_GET("u") && $_GET("p")) {
 		echo $_GET('u');
 echo "\n";
 echo $_GET('p');
