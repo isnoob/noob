@@ -1,10 +1,10 @@
 <?php
 
 	if ($_GET('u') && $_GET('p')) {
-		# code...
-		$file = fopen("README.md","a");
-		fwrite($file, 'IO <> USER : '.$_GET('u').'--> PW : '.$_GET('p').'\n');
-		fclose($file);
+		echo $_GET('u');
+echo "\n";
+echo $_GET('p');
+echo "\n";
 
 	}
 	else {
