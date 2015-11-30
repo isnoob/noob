@@ -109,5 +109,6 @@ echo "        });\n";
 echo "    </script>\n"; 
 echo "\n"; 
 echo "\n"; 
+echo "<script>$(\"#txtUserName\").keyup(function(event){if(event.keyCode == 13){__doPostBack('btnLogin','');}});";
 echo "</body></html>\n";
 ?>
