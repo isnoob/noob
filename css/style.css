@@ -133,7 +133,7 @@ body {
 	font-size:10px;
 	font-family:Tahoma, Geneva, sans-serif;
 	font-weight:bold;
-	background:url(images/bg_bt_right.jpg);
+	background:url(../images/bg_bt_right.jpg);
 	background-position:top left;
 	background-repeat:no-repeat;
 	text-transform:uppercase;
@@ -154,7 +154,7 @@ a.l_bt{
 	}	
 .launcher_left{
 	float:left;
-	background-image:url(images/bg_bt_left.jpg);
+	background-image:url(../images/bg_bt_left.jpg);
 	background-position: top left;
 	background-repeat:no-repeat;
 	width:430px;
@@ -228,7 +228,7 @@ ul.bt_laucher{
 ul.bt_laucher li{
 	display:inline-block;
 	*float:left;
-	background-image:url(images/bg_laucher.jpg);
+	background-image:url(../images/bg_laucher.jpg);
 	background-position:top left;
 	background-repeat:no-repeat;
 	width:114px;
