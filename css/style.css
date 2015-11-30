@@ -89,7 +89,7 @@ body {
 	margin-right: 0px;
 	margin-bottom: 0px;
 	background: #000;
-	background-image:url(http://goo.gl/oLLhW9);
+	background-image:url(https://goo.gl/oLLhW9);
 	background-position:center top;
 	background-repeat:no-repeat;
 }
@@ -133,7 +133,7 @@ body {
 	font-size:10px;
 	font-family:Tahoma, Geneva, sans-serif;
 	font-weight:bold;
-	background:url(data:image/webp;base64,UklGRpwAAABXRUJQVlA4IJAAAAAQBwCdASqCADcAPtFmq1AoJaOjKPM4AQAaCWcDsB66ALouTd/KVPPGB6yWVPl0HcrdMB0iMjbxgeaxB7XS/sKs+AD+8ac9PZC/n243t34PASfYyT080nro63f3zElA4JcBJcRYzeTE8KPYXxiiYdEDfkdpLfheVLQG52xcLaqepLvzrCoWAvNLjQ8ZAASAAAA=);
+	background:url(images/bg_bt_right.jpg);
 	background-position:top left;
 	background-repeat:no-repeat;
 	text-transform:uppercase;
@@ -154,7 +154,7 @@ a.l_bt{
 	}	
 .launcher_left{
 	float:left;
-	background-image:url(data:image/webp;base64,UklGRtoCAABXRUJQVlA4IM4CAACQIgCdASquAdwAPtFiq1KoJSSjoTFJwQAaCWlu3ONqR7h41easoAADJfb1iGpbfrFPIcipg3UsjgqWzLZ8s3cGpHarV90f2BxFB5YSF15ioN9p1ujvgypmxn3piPxB7CpfccaFMX7ov5IX5jpgz5oxUKEOUYnUdkMQ5tN2WuVhd492CA/0Flj96c+oLHHQM7qmvg9B0giG7aQ5WTESMATSA/MHdgKXvoskxfr/9N4UPeg6flKXk4F4wlPwe1Wr76LIt92u4ssDDTDZFM4VBnwqDpxFZOZw8dMGfCoM+mNktC24dw7gOFQZ8Kgz4VBnwqDPhUGfCoM+FQZ8Kgz4VBnwqDPhUGfCoM+FQZ8Kgz4VBnwqDPhUGfCoM+FQZwAA/v5FJLCTatJ6TzbFA8U8zow6c0sGA+FBH6qWTeScV1cZCN1JsZK/R47rqvxUTEJUUv6FDV0Fh4fDXhOz1gthJXF0RvnlA8333J4HHhZcGB1rS9iy4GGMMu+9hwm2Qy7ly7QA85aunzrPepJYYZhguHdPU1VQ1VyCF75AQpwNmXgoiDavo/aFlj/cZSPf0OfP1Yf27v9C55cGcTEAEKlPy2zlSbySr4jvE103rEgt2PFNnwJ6kfqNAvSeFbGk8j5qICCiVvSqSqQenaCnUsTALliIigouuOpymMN0JKibvpeRlhUtVMVO1fvEiUMhk6JiAR+gC4aj0RQDzq2Lu+MRxZ4K6xW45eAENpGaPPDoQuszMyOdCZly9mlSTlCrBTxohRH3jhzO9TUejeF9zR7FU1n7Q9dSilnOZvTjXeQkacxC9E6Kxn2rMnecNIWiW/MJdBIYvn5jSdfSPZMAQMq+hWA9/nQX8cVTRJW0f4WLq+lek2vxeCcDumTLQcHzYk2wGtXJ0A8/sHGZZilD0QxsYeg9vYirJOxwF4/8ACDdJQi3yrCGAAAuvAAAAAAAAAAA);
+	background-image:url(images/bg_bt_left.jpg);
 	background-position: top left;
 	background-repeat:no-repeat;
 	width:430px;
@@ -228,7 +228,7 @@ ul.bt_laucher{
 ul.bt_laucher li{
 	display:inline-block;
 	*float:left;
-	background-image:url(data:image/webp;base64,UklGRs4BAABXRUJQVlA4WAoAAAAQAAAAcQAAHgAAQUxQSNEAAAAFb+ImkiRHuuwRp9596/kjfRIRkQeS/K5Ee4wqtaVmn+ynokaIQCX9vXGTFpYziT9cSbZtOvs5dvJiPr/YtjH/AVnnM1UR/Z8A3LR8Ozx8EVh8+/lwZvAkw+XKeDCTB4mzePteugAi59HOrZQKMheR3lXSBKEjuQskNJESDMLjmC2C1mGoxoPaPo8/x9u6TM2xmNWCtJxLrYmkBCg56I01IBl+Os5KczkD4LC8ZJiV1XwDAC7DQ8OxWlnONrjptp37xy48+3Xn0+Uphmvqq+kGAABWUDgg1gAAAJAGAJ0BKnIAHwA+0WKiTagmIqMsGqmZABoJZwDR+Yuadv/Yj9a5UOBkv4FjYljtR1qODD1ZM8E72WzY1gAA/vP6MLfcAk7UrSi8ZXqY1l7FNNPEh+Ywvrm8HWhbZaKVnzl/mJtGJM/TBlvi1XfNvQc7JyPDClwHER7ciKPp/YCSXJb8vXIIMK+7cuVD5na5nt8UyIq+ic5jLkQG0BUBxsIFABGN759khT8x0pIL6t5HuLfokwMRKEaBJSbXL1/B/fl/wrGYD2/sPmqe0FR3b93tRFUAAAA=);
+	background-image:url(images/bg_laucher.jpg);
 	background-position:top left;
 	background-repeat:no-repeat;
 	width:114px;
